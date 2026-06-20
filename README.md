@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Sai Chowdary
 
-<!--
-**SaiChowdaryDev/SaiChowdaryDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+💡 Passionate about building intelligent solutions with Artificial Intelligence and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Python
+- Machine Learning
+- Deep Learning
+- Computer Vision
+
+🔭 Currently Working On:
+- Smart AI Farming Crop Detection System
+- Deep Learning-based Image Classification
+- Computer Vision Projects
+
+🛠️ Technologies:
+Python | Data Analysis | TensorFlow | OpenCV | Git | GitHub
+
+📫 Reach me:saichowdary4081@gmail.com
+
