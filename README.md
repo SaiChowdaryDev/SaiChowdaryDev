@@ -5,18 +5,18 @@
 💡 Passionate about building intelligent solutions with Artificial Intelligence and Deep Learning.
 
 🌱 Currently Learning:
-- Python
-- Machine Learning
-- Deep Learning
-- Computer Vision
+• Python for Data Science
+• Data Analysis (Pandas, NumPy)
+• Machine Learning Fundamentals
+• Deep Learning & Computer Vision
 
-🔭 Currently Working On:
-- Smart AI Farming Crop Detection System
-- Deep Learning-based Image Classification
-- Computer Vision Projects
+🚀 Building:
+• Crop Disease Detection using Deep Learning
+• Data Analysis Projects
+• Image Classification Projects
 
 🛠️ Technologies:
-Python | Data Analysis | TensorFlow | OpenCV | Git | GitHub
+Python | Pandas | NumPy | Matplotlib | TensorFlow | OpenCV | Git | GitHub | Google Colab
 
 📫 Reach me:saichowdary4081@gmail.com
 
